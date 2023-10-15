@@ -6,7 +6,7 @@
 
 ## Requirements
 
-Install all dependencies using `requirements.txt and `pip`. It is a good practice create a separate environment from all system. To do it use virtualenv.
+Install all dependencies using `requirements.txt` and `pip`. It is a good practice create a separate environment from all system. To do it use virtualenv.
 
 1. `python -m ensurepip --upgrade`
 2. `pip install virtualenv`
